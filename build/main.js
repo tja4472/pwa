@@ -58,7 +58,7 @@ var HomePage = /** @class */ (function () {
     }
     HomePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-home',template:/*ion-inline-start:"C:\VSCode\temp\blog\workbox\src\pages\home\home.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <ion-title>\n\n      Ionic BlankAA\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  BBBBzzzzz\n\n  <img src="https://developers.google.com/web/tools/workbox/thumb.png" alt="Workbox logo">\n\n</ion-content>\n\n'/*ion-inline-end:"C:\VSCode\temp\blog\workbox\src\pages\home\home.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"C:\VSCode\temp\blog\workbox\src\pages\home\home.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <ion-title>\n\n      Ionic Blank\n\n    </ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content padding>\n\n  BBBB\n\n  <img src="https://developers.google.com/web/tools/workbox/thumb.png" alt="Workbox logo">\n\n</ion-content>\n\n'/*ion-inline-end:"C:\VSCode\temp\blog\workbox\src\pages\home\home.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]])
     ], HomePage);
