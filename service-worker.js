@@ -1,8 +1,8 @@
 importScripts('workbox-sw.prod.v2.1.2.js');
 
 const workboxSW = new self.WorkboxSW({
-    clientsClaim: true,
-    skipWaiting: true,
+    "clientsClaim": true,
+    "skipWaiting": true
   });
 workboxSW.precache([
   {
