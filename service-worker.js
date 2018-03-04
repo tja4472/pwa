@@ -26,24 +26,20 @@ workboxSW.precache([
     "revision": "e6b9d54811307f98da62eae992ae05ba"
   },
   {
-    "url": "build/main.css",
-    "revision": "760e5c07bcad2db068bd6a3545ec435c"
+    "url": "build/main.c2f2161b.css"
   },
   {
-    "url": "build/main.js",
-    "revision": "aab103dfdcb5724262b9a6a7267eb473"
+    "url": "build/main.eb665768.js"
   },
   {
-    "url": "build/polyfills.js",
-    "revision": "443c697fc904cd88a651d09cf5c2fe2b"
+    "url": "build/polyfills.889b55a9.js"
   },
   {
-    "url": "build/vendor.js",
-    "revision": "8961bee599b80e648e41322b40a26ca9"
+    "url": "build/vendor.c28d4703.js"
   },
   {
     "url": "index.html",
-    "revision": "ea2f5ff0979b9d9e36e394c56dd0d717"
+    "revision": "a04f30e0c97d0381fd237cf0cdff89ba"
   },
   {
     "url": "manifest.json",
